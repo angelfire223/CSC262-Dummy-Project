@@ -1,7 +1,7 @@
 # CSC262-Dummy-Project
 Dummy Project for course CSC262
 
-//Project Code
+//Project Code below
 
 import java.util.Scanner;
 
